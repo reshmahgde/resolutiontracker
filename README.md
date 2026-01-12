@@ -51,6 +51,5 @@ resolutiontracker/
 ```
 
 ## License
-
-MIT
+Reshma Hegde
 
